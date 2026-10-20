@@ -145,11 +145,15 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\include\earth.h" />
     <ClInclude Include="..\include\game.h" />
+    <ClInclude Include="..\include\physics.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\src\earth.cpp" />
     <ClCompile Include="..\src\game.cpp" />
     <ClCompile Include="..\src\main.cpp" />
+    <ClCompile Include="..\src\physics.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

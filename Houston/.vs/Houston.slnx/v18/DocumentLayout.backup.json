@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\SETU\\Y4\\Project\\Houston\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE560C50-ADFC-492E-B361-367DD13976F9}|Houston\\Houston.vcxproj|D:\\SETU\\Y4\\Project\\Houston\\include\\physics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE560C50-ADFC-492E-B361-367DD13976F9}|Houston\\Houston.vcxproj|solutionrelative:include\\physics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE560C50-ADFC-492E-B361-367DD13976F9}|Houston\\Houston.vcxproj|D:\\SETU\\Y4\\Project\\Houston\\src\\earth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE560C50-ADFC-492E-B361-367DD13976F9}|Houston\\Houston.vcxproj|solutionrelative:src\\earth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE560C50-ADFC-492E-B361-367DD13976F9}|Houston\\Houston.vcxproj|D:\\SETU\\Y4\\Project\\Houston\\include\\earth.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE560C50-ADFC-492E-B361-367DD13976F9}|Houston\\Houston.vcxproj|solutionrelative:include\\earth.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE560C50-ADFC-492E-B361-367DD13976F9}|Houston\\Houston.vcxproj|D:\\SETU\\Y4\\Project\\Houston\\src\\physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE560C50-ADFC-492E-B361-367DD13976F9}|Houston\\Houston.vcxproj|solutionrelative:src\\physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE560C50-ADFC-492E-B361-367DD13976F9}|Houston\\Houston.vcxproj|D:\\SETU\\Y4\\Project\\Houston\\src\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BE560C50-ADFC-492E-B361-367DD13976F9}|Houston\\Houston.vcxproj|solutionrelative:src\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE560C50-ADFC-492E-B361-367DD13976F9}|Houston\\Houston.vcxproj|D:\\SETU\\Y4\\Project\\Houston\\include\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BE560C50-ADFC-492E-B361-367DD13976F9}|Houston\\Houston.vcxproj|solutionrelative:include\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE560C50-ADFC-492E-B361-367DD13976F9}|Houston\\Houston.vcxproj|D:\\SETU\\Y4\\Project\\Houston\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BE560C50-ADFC-492E-B361-367DD13976F9}|Houston\\Houston.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "game.cpp",
               "DocumentMoniker": "D:\\SETU\\Y4\\Project\\Houston\\src\\game.cpp",
               "RelativeDocumentMoniker": "src\\game.cpp",
               "ToolTip": "D:\\SETU\\Y4\\Project\\Houston\\src\\game.cpp",
               "RelativeToolTip": "src\\game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAACQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-20T21:14:12.255Z",
               "IsPinned": true,
@@ -40,30 +52,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "game.h",
               "DocumentMoniker": "D:\\SETU\\Y4\\Project\\Houston\\include\\game.h",
               "RelativeDocumentMoniker": "include\\game.h",
               "ToolTip": "D:\\SETU\\Y4\\Project\\Houston\\include\\game.h",
               "RelativeToolTip": "include\\game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-10-20T21:14:13.412Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "earth.cpp",
+              "DocumentMoniker": "D:\\SETU\\Y4\\Project\\Houston\\src\\earth.cpp",
+              "RelativeDocumentMoniker": "src\\earth.cpp",
+              "ToolTip": "D:\\SETU\\Y4\\Project\\Houston\\src\\earth.cpp",
+              "RelativeToolTip": "src\\earth.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-20T22:00:38.165Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\SETU\\Y4\\Project\\Houston\\src\\main.cpp",
-              "RelativeDocumentMoniker": "src\\main.cpp",
-              "ToolTip": "D:\\SETU\\Y4\\Project\\Houston\\src\\main.cpp",
-              "RelativeToolTip": "src\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-20T21:24:45.594Z",
+              "Title": "earth.h",
+              "DocumentMoniker": "D:\\SETU\\Y4\\Project\\Houston\\include\\earth.h",
+              "RelativeDocumentMoniker": "include\\earth.h",
+              "ToolTip": "D:\\SETU\\Y4\\Project\\Houston\\include\\earth.h",
+              "RelativeToolTip": "include\\earth.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-20T22:00:38.167Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "physics.cpp",
+              "DocumentMoniker": "D:\\SETU\\Y4\\Project\\Houston\\src\\physics.cpp",
+              "RelativeDocumentMoniker": "src\\physics.cpp",
+              "ToolTip": "D:\\SETU\\Y4\\Project\\Houston\\src\\physics.cpp",
+              "RelativeToolTip": "src\\physics.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-20T22:33:15.59Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "physics.h",
+              "DocumentMoniker": "D:\\SETU\\Y4\\Project\\Houston\\include\\physics.h",
+              "RelativeDocumentMoniker": "include\\physics.h",
+              "ToolTip": "D:\\SETU\\Y4\\Project\\Houston\\include\\physics.h",
+              "RelativeToolTip": "include\\physics.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-20T22:10:47.641Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

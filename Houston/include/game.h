@@ -1,5 +1,6 @@
 #pragma once
 #include "raylib.h"
+#include "earth.h"
 
 class Game
 {
@@ -11,10 +12,12 @@ public:
 
 	Font font;
 	Vector2 game_title_Size;
+	Vector2 game_title_Pos;
 private:
 
 	void Update(float dt);
 	void Draw();
+	void TextManipulation();
 
 	float screenWidth = 1920;
 	float screenHeight = 1080;

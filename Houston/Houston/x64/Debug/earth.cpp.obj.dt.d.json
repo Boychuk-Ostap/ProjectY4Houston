@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\setu\\y4\\project\\houston\\src\\earth.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\setu\\y4\\project\\houston\\include\\earth.h",
+            "d:\\setu\\y4\\project\\houston\\include\\physics.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
