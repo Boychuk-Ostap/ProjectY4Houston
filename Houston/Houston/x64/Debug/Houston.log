@@ -1,0 +1,6 @@
+﻿  game.cpp
+D:\SETU\Y4\Project\Houston\src\game.cpp(5,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SETU\Y4\Project\Houston\src\game.cpp(5,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SETU\Y4\Project\Houston\src\game.cpp(34,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Houston.vcxproj -> D:\SETU\Y4\Project\Houston\x64\Debug\Houston.exe
+  D:\SETU\Y4\Project\Houston\x64\Debug\Houston.exe: message: deploying dependencies

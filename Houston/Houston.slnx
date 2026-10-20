@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Houston/Houston.vcxproj" Id="be560c50-adfc-492e-b361-367dd13976f9" />
+</Solution>
