@@ -1,6 +1,8 @@
 #pragma once
 #include "raylib.h"
 #include "earth.h"
+#include "camera.h"
+
 
 class Game
 {
@@ -10,13 +12,22 @@ public:
 
 	void Run();
 
+	CelestialBody earth{};
+
+	GameCamera camera{};
+	const char* cameraMode = "Fixed on Earth";
+
 	Font font;
 	Vector2 game_title_Size;
 	Vector2 game_title_Pos;
 private:
 
 	void Update(float dt);
+	
 	void Draw();
+	void DrawEarth();
+	void DrawHub();
+
 	void TextManipulation();
 
 	float screenWidth = 1920;

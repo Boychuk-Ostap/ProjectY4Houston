@@ -11,7 +11,9 @@
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\stdbool.h",
-            "d:\\setu\\y4\\project\\houston\\include\\earth.h"
+            "d:\\setu\\y4\\project\\houston\\include\\earth.h",
+            "d:\\setu\\y4\\project\\houston\\include\\physics.h",
+            "d:\\setu\\y4\\project\\houston\\include\\camera.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
