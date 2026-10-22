@@ -1,20 +1,20 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\setu\\y4\\project\\houston\\src\\game.cpp",
+        "Source": "c:\\ostap_boychuk\\projecty4\\projecty4houston\\houston\\src\\game.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "d:\\setu\\y4\\project\\houston\\include\\game.h",
-            "d:\\setu\\y4\\project\\houston\\houston\\raylib\\include\\raylib.h",
+            "c:\\ostap_boychuk\\projecty4\\projecty4houston\\houston\\include\\game.h",
+            "c:\\ostap_boychuk\\projecty4\\projecty4houston\\houston\\houston\\raylib\\include\\raylib.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\stdarg.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\stdbool.h",
-            "d:\\setu\\y4\\project\\houston\\include\\earth.h",
-            "d:\\setu\\y4\\project\\houston\\include\\physics.h",
-            "d:\\setu\\y4\\project\\houston\\include\\camera.h"
+            "c:\\ostap_boychuk\\projecty4\\projecty4houston\\houston\\include\\earth.h",
+            "c:\\ostap_boychuk\\projecty4\\projecty4houston\\houston\\include\\physics.h",
+            "c:\\ostap_boychuk\\projecty4\\projecty4houston\\houston\\include\\camera.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
